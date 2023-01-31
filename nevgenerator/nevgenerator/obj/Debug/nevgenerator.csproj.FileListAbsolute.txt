@@ -1,0 +1,15 @@
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\bin\Debug\nevgenerator.exe.config
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\bin\Debug\nevgenerator.exe
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\bin\Debug\nevgenerator.pdb
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator.csproj.AssemblyReference.cache
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\MainWindow.g.cs
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\App.g.cs
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator_MarkupCompile.cache
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator_MarkupCompile.lref
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\MainWindow.baml
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator.g.resources
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator.Properties.Resources.resources
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator.csproj.GenerateResource.cache
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator.csproj.CoreCompileInputs.cache
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator.exe
+C:\Users\Boti\source\repos\nevgenerator\nevgenerator\obj\Debug\nevgenerator.pdb
